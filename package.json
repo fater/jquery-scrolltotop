@@ -1,18 +1,22 @@
 {
   "name": "jquery-scrolltotop",
-  "version": "1.0.0",
-	"description": "JQuery Scroll To Top Plugin",
+  "version": "1.0.1",
+  "description": "JQuery Scroll To Top Plugin",
   "main": "jquery.scrolltotop.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "modalfly"
-  ],
+  "keywords": [],
   "author": "Chaikin Evgenii",
   "license": "ISC",
-	"repository": {
+  "repository": {
     "type": "git",
     "url": "git+https://github.com/fater/jquery-scrolltotop.git"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-cssmin": "^0.1.7",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2"
   }
 }
