@@ -1,17 +1,19 @@
 #Scroll-To-Top jQuery plugin
 
-Версия: **1.0.1**
+Версия: **1.0.2**
 
 ###Для чего плагин?
 * Плагин для автоматической прокрутки в верх страницы при нажатии на кнопку "Top^";
 * Отображение кнопки автоматически при прокрутке страницы вниз на заданную высоту;
 * Работает как на десктопной, так и на мобильной версии сайтов.
 
+![jQuery Scroll To Top Plugin](http://files.fater.ru/git/jquery-scrolltotop/1.gif)
+
 ##Зависимости
-* **JQuery** - необходимая библиотека для работы модуля
+* **jQuery** - необходимая библиотека для работы модуля
 
 ##Установка с помощью Bower
-`bower install jquery-scrolltotop --save` - происходит установка плагина. В текущем пакете есть зависимость jquery. Если jquery не были установлены через bower, он установится вместе с плагином ScrollToTop. 
+`bower install jquery-scrolltotop --save` - происходит установка плагина. В текущем пакете есть зависимость [jQuery](http://jquery.com/). Если [jQuery](http://jquery.com/) не были установлены через [Bower](http://bower.io/), он установится вместе с плагином ScrollToTop. 
 
 
 ###Как подключить плагин
@@ -19,9 +21,9 @@
 Подключите файлы в HTML проект:
 ```html
 // Scrolltotop плагин
-<script src="url-to-module/jquery-scrolltotop/jquery.scrolltotop.js"></script>
+<script src="url-to-module/jquery-scrolltotop/dist/jquery.scrolltotop.min.js"></script>
 // Стили
-<link rel="stylesheet" href="url-to-module/jquery-scrolltotop/jquery.scrolltotop.css">
+<link rel="stylesheet" href="url-to-module/jquery-scrolltotop/dist/jquery.scrolltotop.min.css">
 
 // JQuery
 <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>

@@ -4,11 +4,11 @@
   "authors": [
 		"'Chaikin Evgenii <'fat_hack@rambler.ru'>"
   ],
-	"description": "JQuery Scroll To Top Plugin",
+	"description": "jQuery Scroll To Top Plugin",
   "main": "jquery.scrolltotop.js",
   "moduleType": [],
   "keywords": [
-		"modalfly"
+		"scrolltotop"
   ],
   "license": "CC",
   "ignore": [

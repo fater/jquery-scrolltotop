@@ -1,11 +1,11 @@
 /*
- * Module: JQuery Scroll To Top Plugin
- * Version: 1.0.0
+ * Module: jQuery Scroll To Top Plugin
+ * Version: 1.0.2
  * Author: Chaikin Evgenii
  * Release date: 26 Oct 2015
- * Updated: 26 Oct 2015
+ * Updated: 29 Oct 2015
  * Site: http://www.fater.ru
- * Dependencies: JQuery
+ * Dependencies: jQuery
  * */
 
 
