@@ -13,7 +13,10 @@
 * **jQuery** - необходимая библиотека для работы модуля
 
 ##Установка с помощью Bower
-`bower install jquery-scrolltotop --save` - происходит установка плагина. В текущем пакете есть зависимость [jQuery](http://jquery.com/). Если [jQuery](http://jquery.com/) не были установлены через [Bower](http://bower.io/), он установится вместе с плагином ScrollToTop. 
+```
+$> bower install jquery-scrolltotop --save
+```
+Происходит установка плагина. В текущем пакете есть зависимость [jQuery](http://jquery.com/). Если [jQuery](http://jquery.com/) не были установлены через [Bower](http://bower.io/), он установится вместе с плагином ScrollToTop. 
 
 
 ###Как подключить плагин
