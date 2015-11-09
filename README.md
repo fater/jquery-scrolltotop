@@ -7,7 +7,7 @@
 * Отображение кнопки автоматически при прокрутке страницы вниз на заданную высоту;
 * Работает как на десктопной, так и на мобильной версии сайтов.
 
-![jQuery Scroll To Top Plugin](http://files.fater.ru/git/jquery-scrolltotop/1.gif-)
+![jQuery Scroll To Top Plugin](http://files.fater.ru/git/jquery-scrolltotop/1.gif)
 
 ##Зависимости
 * **jQuery** - необходимая библиотека для работы модуля
