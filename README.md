@@ -1,38 +1,35 @@
 [![GitHub version](https://badge.fury.io/gh/fater%2Fjquery-scrolltotop.svg)](https://badge.fury.io/gh/fater%2Fjquery-scrolltotop)
 
-jQuery Scroll-To-Top Plugin
+# jQuery Scroll-To-Top Plugin
 
-Plugin version: **1.0.2**
-
-###What does the plugin?
-* Отображение кнопки автоматически при прокрутке страницы вниз на заданную высоту;
-* Плагин для автоматической прокрутки в верх страницы при нажатии на кнопку "Top^";
-* Работает как на десктопной, так и на мобильной версии сайтов.
+### What does the plugin?
+* Display scroll button when scrolling down the page or specified scrolling height;
+* Scroll up the page when you press button "Top^";
+* Works on desktop and mobile site versions.
 
 ![jQuery Scroll To Top Plugin](http://files.fater.ru/git/jquery-scrolltotop/1.gif)
 
-##Зависимости
-* **jQuery** - необходимая библиотека для работы модуля
+## Dependencies
+* **jQuery** - only jQuery library need for this plugin.
 
-##Установка с помощью Bower
+## Bower installation
 ```
 $> bower install jquery-scrolltotop --save
 ```
 Происходит установка плагина. В текущем пакете есть зависимость [jQuery](http://jquery.com/). Если [jQuery](http://jquery.com/) не были установлены через [Bower](http://bower.io/), он установится вместе с плагином ScrollToTop. 
 
 
-###Как подключить плагин
+### How to include plugin
 
-Подключите файлы в HTML проект:
+Include jQuery needed and self plugin:
 ```html
-// Scrolltotop плагин
-<script src="url-to-module/jquery-scrolltotop/dist/jquery.scrolltotop.min.js"></script>
-// Стили
-<link rel="stylesheet" href="url-to-module/jquery-scrolltotop/dist/jquery.scrolltotop.min.css">
-
-// JQuery
+// jQuery
 <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
 
+// ScrollToTop Plugin
+<script src="url-to-module/jquery-scrolltotop/dist/jquery.scrolltotop.min.js"></script>
+// Plugin Styles
+<link rel="stylesheet" href="url-to-module/jquery-scrolltotop/dist/jquery.scrolltotop.min.css">
 ```
 
 ##Описание параметров
