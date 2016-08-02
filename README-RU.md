@@ -1,20 +1,20 @@
 [![GitHub version](https://badge.fury.io/gh/fater%2Fjquery-scrolltotop.svg)](https://badge.fury.io/gh/fater%2Fjquery-scrolltotop)
 
-[Русская версия README](README-RU.md)
+[English README file](README.md)
 
-# jQuery Scroll-To-Top Plugin
+# Плагин Scroll-To-Top для jQuery
 
-### What does the plugin?
-* Display scroll button when scrolling down the page or specified scrolling height;
-* Scroll up the page when you press button "Top^";
-* Works on desktop and mobile site versions.
+### Что длеает плагин?
+* Отображает стрелку прокрутки вверх при прокрутке страницы вниз на заданную высоту;
+* Прокручивать страницу в верх при нажатии на кнопку "Top^";
+* Работает на ПК и мобильных устройствах.
 
 ![jQuery Scroll To Top Plugin](http://files.fater.ru/git/jquery-scrolltotop/1.gif)
 
-## Dependencies
-* **jQuery** - only jQuery library need for this plugin.
+## Необходимые компоненты:
+* **jQuery** - необходима только библиотека jQuery для работы этого плагина.
 
-## Bower installation
+## Установка при помощи Bower
 ```
 $> bower install jquery-scrolltotop --save
 ```
