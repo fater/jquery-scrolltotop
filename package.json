@@ -1,6 +1,6 @@
 {
   "name": "jquery-scrolltotop",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "JQuery Scroll To Top Plugin",
   "main": "jquery.scrolltotop.js",
   "scripts": {
